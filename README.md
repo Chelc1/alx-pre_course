@@ -2,8 +2,4 @@
 _
 **Beauty**
 
-A [Butterfly](http://beautifulbutterflies.com "Butterfly")
-
-*Blue
-*Yellow
--Brown
+A [Butterfly](http://beautifulbutterflies.com "Butterfly"
